@@ -18,4 +18,12 @@
 
 
 ## シミュレーションの変換結果
-編集中・・
+定義された髪の毛の散乱体モデル
+
+
+![image](https://user-images.githubusercontent.com/57475794/99529538-51b40780-29e3-11eb-8740-d70d31fd760b.png)
+
+出力された角度に対する色情報
+
+![image](https://user-images.githubusercontent.com/57475794/99529653-7e681f00-29e3-11eb-9a97-1b949701573b.png)
+
